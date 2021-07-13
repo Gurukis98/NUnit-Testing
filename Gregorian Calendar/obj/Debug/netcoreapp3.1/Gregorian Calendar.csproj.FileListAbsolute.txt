@@ -1,0 +1,13 @@
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\bin\Debug\netcoreapp3.1\Gregorian Calendar.exe
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\bin\Debug\netcoreapp3.1\Gregorian Calendar.deps.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\bin\Debug\netcoreapp3.1\Gregorian Calendar.runtimeconfig.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\bin\Debug\netcoreapp3.1\Gregorian Calendar.runtimeconfig.dev.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\bin\Debug\netcoreapp3.1\Gregorian Calendar.dll
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\bin\Debug\netcoreapp3.1\Gregorian Calendar.pdb
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\obj\Debug\netcoreapp3.1\Gregorian Calendar.csproj.AssemblyReference.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\obj\Debug\netcoreapp3.1\Gregorian Calendar.AssemblyInfoInputs.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\obj\Debug\netcoreapp3.1\Gregorian Calendar.AssemblyInfo.cs
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\obj\Debug\netcoreapp3.1\Gregorian Calendar.csproj.CoreCompileInputs.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\obj\Debug\netcoreapp3.1\Gregorian Calendar.dll
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\obj\Debug\netcoreapp3.1\Gregorian Calendar.pdb
+C:\Users\kisho\NUnit Testing\NUnit Testing\Gregorian Calendar\obj\Debug\netcoreapp3.1\Gregorian Calendar.genruntimeconfig.cache

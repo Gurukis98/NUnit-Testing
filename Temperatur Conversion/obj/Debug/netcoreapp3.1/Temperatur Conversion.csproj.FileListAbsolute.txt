@@ -1,0 +1,13 @@
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\bin\Debug\netcoreapp3.1\Temperatur Conversion.exe
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\bin\Debug\netcoreapp3.1\Temperatur Conversion.deps.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\bin\Debug\netcoreapp3.1\Temperatur Conversion.runtimeconfig.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\bin\Debug\netcoreapp3.1\Temperatur Conversion.runtimeconfig.dev.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\bin\Debug\netcoreapp3.1\Temperatur Conversion.dll
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\bin\Debug\netcoreapp3.1\Temperatur Conversion.pdb
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\obj\Debug\netcoreapp3.1\Temperatur Conversion.csproj.AssemblyReference.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\obj\Debug\netcoreapp3.1\Temperatur Conversion.AssemblyInfoInputs.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\obj\Debug\netcoreapp3.1\Temperatur Conversion.AssemblyInfo.cs
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\obj\Debug\netcoreapp3.1\Temperatur Conversion.csproj.CoreCompileInputs.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\obj\Debug\netcoreapp3.1\Temperatur Conversion.dll
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\obj\Debug\netcoreapp3.1\Temperatur Conversion.pdb
+C:\Users\kisho\NUnit Testing\NUnit Testing\Temperatur Conversion\obj\Debug\netcoreapp3.1\Temperatur Conversion.genruntimeconfig.cache

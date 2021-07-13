@@ -1,0 +1,13 @@
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\bin\Debug\netcoreapp3.1\Newton's Method.exe
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\bin\Debug\netcoreapp3.1\Newton's Method.deps.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\bin\Debug\netcoreapp3.1\Newton's Method.runtimeconfig.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\bin\Debug\netcoreapp3.1\Newton's Method.runtimeconfig.dev.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\bin\Debug\netcoreapp3.1\Newton's Method.dll
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\bin\Debug\netcoreapp3.1\Newton's Method.pdb
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\obj\Debug\netcoreapp3.1\Newton's Method.csproj.AssemblyReference.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\obj\Debug\netcoreapp3.1\Newton's Method.AssemblyInfoInputs.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\obj\Debug\netcoreapp3.1\Newton's Method.AssemblyInfo.cs
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\obj\Debug\netcoreapp3.1\Newton's Method.csproj.CoreCompileInputs.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\obj\Debug\netcoreapp3.1\Newton's Method.dll
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\obj\Debug\netcoreapp3.1\Newton's Method.pdb
+C:\Users\kisho\NUnit Testing\NUnit Testing\Newton's Method\obj\Debug\netcoreapp3.1\Newton's Method.genruntimeconfig.cache

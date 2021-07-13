@@ -1,0 +1,13 @@
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\bin\Debug\netcoreapp3.1\Monthly Payment.exe
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\bin\Debug\netcoreapp3.1\Monthly Payment.deps.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\bin\Debug\netcoreapp3.1\Monthly Payment.runtimeconfig.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\bin\Debug\netcoreapp3.1\Monthly Payment.runtimeconfig.dev.json
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\bin\Debug\netcoreapp3.1\Monthly Payment.dll
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\bin\Debug\netcoreapp3.1\Monthly Payment.pdb
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\obj\Debug\netcoreapp3.1\Monthly Payment.csproj.AssemblyReference.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\obj\Debug\netcoreapp3.1\Monthly Payment.AssemblyInfoInputs.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\obj\Debug\netcoreapp3.1\Monthly Payment.AssemblyInfo.cs
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\obj\Debug\netcoreapp3.1\Monthly Payment.csproj.CoreCompileInputs.cache
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\obj\Debug\netcoreapp3.1\Monthly Payment.dll
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\obj\Debug\netcoreapp3.1\Monthly Payment.pdb
+C:\Users\kisho\NUnit Testing\NUnit Testing\Monthly Payment\obj\Debug\netcoreapp3.1\Monthly Payment.genruntimeconfig.cache
