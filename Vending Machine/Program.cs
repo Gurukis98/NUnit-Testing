@@ -30,7 +30,8 @@ namespace Vending_Machine
             }
             public static void Main()
             {
-                int amount = 123456;
+                Console.WriteLine("Enter The Amount");
+                int amount = int.Parse(Console.ReadLine());
                 countCurrency(amount);
                 Console.WriteLine("Amount = " + amount);
             }
