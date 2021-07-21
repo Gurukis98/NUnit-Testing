@@ -12,7 +12,7 @@ namespace Temperatur_Conversion
             Console.WriteLine("Celsius: " + celsius);
 
             fahrenheit = ((celsius * 9 / 5) + 32);
-            Console.WriteLine("Fahrenheit = " + fahrenheit);
+            Console.WriteLine("Fahrenheit= " + fahrenheit);
         }    
     }
 }
