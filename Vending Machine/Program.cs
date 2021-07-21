@@ -33,7 +33,7 @@ namespace Vending_Machine
                 Console.WriteLine("Enter The Amount");
                 int amount = int.Parse(Console.ReadLine());
                 countCurrency(amount);
-                Console.WriteLine("Amount = " + amount);
+                Console.WriteLine("Amount= " + amount);
             }
    }
 }
