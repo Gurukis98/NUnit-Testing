@@ -21,7 +21,7 @@ namespace Newton_s_Method
                 t = root;
             }
 
-            return root;
+            return root ;
         }
         public static void Main()
         {
