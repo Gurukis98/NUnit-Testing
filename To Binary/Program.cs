@@ -32,7 +32,7 @@ namespace To_Binary
         }
         public static void Main()
         {
-            binary(106);
+            binary(106) ;
         }
     }
 }
