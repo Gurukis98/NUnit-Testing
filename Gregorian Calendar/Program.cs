@@ -25,7 +25,7 @@ namespace Gregorian_Calendar
 	    int m0 = (m + 12 * ((14 - m) / 12) - 2);
             Console.WriteLine("m0 = " + m0);
 	    int d0 = ((d + x + 31 * m0 / 12) % 7);
-            Console.WriteLine("d0 = " + d0);
+            Console.WriteLine("d0= " + d0);
 	}
     }
 }
